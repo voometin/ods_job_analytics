@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Dec  1 22:13:18 2018
 
-@author: Andrew
-"""
 
 import pickle
 import re

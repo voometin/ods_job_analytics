@@ -1,13 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Dec  1 22:13:18 2018
-
-@author: Andrew
-"""
-
-#import tensorflow as tf
-#print(tf.test.gpu_device_name())
-
 
 import pickle
 import os
